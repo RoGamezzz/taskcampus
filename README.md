@@ -46,4 +46,4 @@ Abrir `index.html` en el navegador.
 
 ## Integrantes
 
-- Kevin Roman
+- Kevin Joel Roman Cabrera
