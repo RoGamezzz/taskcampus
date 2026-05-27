@@ -1,4 +1,4 @@
-import { Tarea, Resumen } from "./types";
+import { Tarea, Resumen } from "./types.js";
 
 const BASE = "http://localhost:8000";
 

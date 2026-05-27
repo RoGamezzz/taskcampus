@@ -4,8 +4,8 @@ import {
   actualizarTarea,
   eliminarTarea,
   getResumen,
-} from "./api";
-import { Tarea } from "./types";
+} from "./api.js";
+import { Tarea } from "./types.js";
 
 declare global {
   interface Window {
